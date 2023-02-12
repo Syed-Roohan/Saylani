@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.content{
+    margin-top: 10%;
+    text-align: center;
+}
+.SplashImage{
+    width: auto;
+    height: 200px;
+}
+.btn{
+    margin-top: 20px;
+    height: 30px;
+    width: 100px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background-color: #61b846;
+    font-weight: 500;
+}
+h1{
+    color: #61b846;
+}
+h3{
+    color: #024f9d;
+}

@@ -1,0 +1,18 @@
+h3{
+    margin-top: 20px;
+}
+.sideIcon{
+    margin-left: 800px;
+}
+.card{
+    margin-top: 20px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.upload{
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
